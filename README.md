@@ -4,7 +4,7 @@
 - Solidity
 - Ownable Contract by OpenZeppelin
 ## Frontend Central
--React.js
+- React.js
 - Tailwind CSS
 ## Backend Central
 - Typescript
